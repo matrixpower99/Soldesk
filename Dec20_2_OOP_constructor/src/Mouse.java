@@ -1,0 +1,16 @@
+// constructor
+public class Mouse {
+	String name;
+	int price;
+	static String maker = "∑Œ¡ˆ≈ÿ";
+	
+	public void printInfo() {
+		System.out.println(name);
+		System.out.println(price);
+		System.out.println(maker);
+	}
+	
+	public static void printMakerInfo() {
+		System.out.println(maker);
+	}
+}

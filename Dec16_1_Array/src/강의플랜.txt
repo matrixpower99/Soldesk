@@ -1,0 +1,13 @@
+BigData분석
+PC에서 불가능
+서버급 컴퓨터(슈퍼컴) 여러대로 병렬처리해야
+-> 서버급에는 윈도우 사용하지 않음.
+-> Linux
+
+PC(Windows) -> 이클립스로 BigData분석 프로그램을 만든 후 -> 완성된 것을 Linux로 전송
+-> 원격에서 명령어로 실행
+
+나중에 서버에 전송 후 작업하는 예)
+c:> java -jar mfmTest.jar sam10.txt d:/samResult
+                        분석할 파일명 / 결과 저장할 폴더명
+						  
